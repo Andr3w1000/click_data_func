@@ -1,0 +1,4 @@
+cazure-functions
+azure-identity
+azure-storage-blob
+azure-eventhub
